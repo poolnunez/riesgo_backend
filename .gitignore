@@ -1,0 +1,22 @@
+# Entorno virtual
+venv-backend/
+__pycache__/
+*.pyc
+
+# Base de datos local
+*.db
+
+data/
+
+# Archivos de configuración sensibles
+.env
+*.env
+
+# Archivos de logs
+*.log
+
+# Archivos de modelos de ML (opcional, si no quieres subirlos)
+ml_model/*.joblib
+
+# Otros archivos temporales
+.DS_Store
