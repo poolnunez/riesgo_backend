@@ -9,7 +9,6 @@ __pycache__/
 data/
 
 # Archivos de configuración sensibles
-.env
 *.env
 
 # Archivos de logs
@@ -20,3 +19,9 @@ ml_model/*.joblib
 
 # Otros archivos temporales
 .DS_Store
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
+node_modules
