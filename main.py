@@ -30,7 +30,7 @@ app = FastAPI(
 origins = [
     "http://localhost",
     "http://localhost:5173", # Asegúrate de que esta sea la URL de tu frontend
-    "https://riesgo-frontend.onrender.com",  # Frontend en producción
+    "https://riesgo-suicidio.netlify.app",  # Frontend en producción
     # Agrega más orígenes si tu frontend se aloja en otro lugar
 ]
 
